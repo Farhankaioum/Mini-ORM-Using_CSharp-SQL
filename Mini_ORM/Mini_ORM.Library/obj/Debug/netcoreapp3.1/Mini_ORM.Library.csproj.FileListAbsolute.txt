@@ -1,0 +1,9 @@
+I:\Batch-4\Test\test-1\class_test-1\Mini_ORM\Mini_ORM.Library\bin\Debug\netcoreapp3.1\Mini_ORM.Library.deps.json
+I:\Batch-4\Test\test-1\class_test-1\Mini_ORM\Mini_ORM.Library\bin\Debug\netcoreapp3.1\Mini_ORM.Library.dll
+I:\Batch-4\Test\test-1\class_test-1\Mini_ORM\Mini_ORM.Library\obj\Debug\netcoreapp3.1\Mini_ORM.Library.csprojAssemblyReference.cache
+I:\Batch-4\Test\test-1\class_test-1\Mini_ORM\Mini_ORM.Library\obj\Debug\netcoreapp3.1\Mini_ORM.Library.AssemblyInfoInputs.cache
+I:\Batch-4\Test\test-1\class_test-1\Mini_ORM\Mini_ORM.Library\obj\Debug\netcoreapp3.1\Mini_ORM.Library.AssemblyInfo.cs
+I:\Batch-4\Test\test-1\class_test-1\Mini_ORM\Mini_ORM.Library\bin\Debug\netcoreapp3.1\Mini_ORM.Library.pdb
+I:\Batch-4\Test\test-1\class_test-1\Mini_ORM\Mini_ORM.Library\obj\Debug\netcoreapp3.1\Mini_ORM.Library.csproj.CoreCompileInputs.cache
+I:\Batch-4\Test\test-1\class_test-1\Mini_ORM\Mini_ORM.Library\obj\Debug\netcoreapp3.1\Mini_ORM.Library.dll
+I:\Batch-4\Test\test-1\class_test-1\Mini_ORM\Mini_ORM.Library\obj\Debug\netcoreapp3.1\Mini_ORM.Library.pdb
